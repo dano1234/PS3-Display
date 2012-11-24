@@ -43,7 +43,7 @@ public class DisplayApp extends PApplet implements Runnable {
 
   String addressOfManualUpdateFile = null;
 
-  static String userName = "";
+  static String userName = "d";
 
   static String password = "";
 
