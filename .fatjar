@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Nov 20 22:11:04 EST 2012
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=/Users/dano/Documents/display/PS3DisplayApplication.jar
+manifest.mergeall=true
+manifest.mainclass=DisplayApp
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=

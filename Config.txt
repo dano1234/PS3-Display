@@ -1,0 +1,42 @@
+w=1280
+h=720
+topMargin=150
+//these two slashes make a line a comment, invisible to the machine
+sideMargin=250
+fullScreen=false
+scale= 1
+//in case your computer is behind a firewall
+proxyPort= 8002
+proxyHost=proxy
+//you can press f and see all the fonts on your machine
+font=Arial
+contentColor = 227722
+headlineColor = 000000
+bgColor = ffffff
+headlineFontSize = 86
+contentFontSize = 55
+//how long things stay on the screen
+millisPerLetter = 80
+numOfTransitionFrames = 5
+//will look locally for a file named feeds.txt and then at this url.  If you want to be able to change feeds remotely don't have a local file and use this url
+addressOfFeedsList=www.ps3nyc.org/display/
+//in case some of your feeds are password protected
+userName=parent
+password=hudson
+//crazy option to use camera to reflect scene and have word follow people
+reflect=false
+videoSource=0
+//cuts off messages too long for the display
+maxNumberOfContentLines=3
+//how often check for changes on feeds to automatically update
+updatePeriodMinutes = 5
+//if you don't want to automatically update
+requireManualUpdate = false
+//put this url in your browser to manually release changes to this application
+addressOfManualUpdateFile  = "www.ps3nyc.org/diplsay/update.php"
+//this is the contents of the update.php file
+//<? 
+//touch("update.php");
+//echo "updated, in a few minutes changes should be displayed";
+//?>
+
