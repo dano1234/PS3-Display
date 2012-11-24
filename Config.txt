@@ -21,8 +21,8 @@ numOfTransitionFrames = 5
 //will look locally for a file named feeds.txt and then at this url.  If you want to be able to change feeds remotely don't have a local file and use this url
 addressOfFeedsList=www.ps3nyc.org/display/
 //in case some of your feeds are password protected
-userName=parent
-password=hudson
+userName=
+password=
 //crazy option to use camera to reflect scene and have word follow people
 reflect=false
 videoSource=0
